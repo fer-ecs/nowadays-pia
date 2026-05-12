@@ -442,13 +442,11 @@ include 'includes/header.php';
                         <div class="relative">
                             <select name="service" id="service" required
                                     class="w-full bg-black border border-white/20 rounded-lg px-4 py-3 text-white focus:border-brand-red focus:ring-1 focus:ring-brand-red outline-none transition-all appearance-none cursor-pointer">
-                                <option value="" disabled selected>Selecciona una solución</option>
-                                <option value="Landing Page">Web Express / Landing Page</option>
-                                <option value="E-commerce">E-commerce / Tienda Online</option>
-                                <option value="Web Profesional">Página web profesional</option>
-                                <option value="Desarrollo a Medida">Desarrollo web a la Medida</option>
-                                <option value="ESG">Datos Verdes ESG</option>
-                                <option value="CRO">Guía CRO</option>
+                                <option value="" disabled selected>Selecciona un servicio o producto</option>
+                                <option value="Diseño Web">Diseño Web</option>
+                                <option value="E-commerce">Diseño y Configuración E-commerce</option>
+                                <option value="Guia CRO">Guía de Optimización (CRO)</option>
+                                <option value="Datos ESG">Datos Verdes ESG / EcoByte</option>
                             </select>
                             <div class="absolute inset-y-0 right-0 flex items-center px-4 pointer-events-none text-gray-500">
                                 <i data-lucide="chevron-down" class="w-4 h-4"></i>
