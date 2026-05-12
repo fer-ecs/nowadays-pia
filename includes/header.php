@@ -67,7 +67,7 @@
 
                 <a href="nosotros" class="text-gray-400 hover:text-brand-red transition-colors">Nosotros</a>
                 
-                <a href="contacto" class="bg-white text-black px-5 py-2 rounded-full font-bold hover:bg-brand-red hover:text-white transition-all transform hover:scale-105">
+                <a href="inicio#contacto" class="bg-white text-black px-5 py-2 rounded-full font-bold hover:bg-brand-red hover:text-white transition-all transform hover:scale-105">
                     Empezar Proyecto
                 </a>
             </div>

@@ -1,5 +1,5 @@
 <?php 
-$page_title = "Bloodshot | Sitios Web de Alto Rendimiento";
+$page_title = "NØWADAYS Studio | Sitios Web de Alto Rendimiento";
 include 'includes/header.php'; 
 ?>
 
@@ -15,11 +15,11 @@ include 'includes/header.php';
                     <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                     <i data-lucide="star" class="w-4 h-4 fill-current"></i>
                 </div>
-                <span class="text-sm font-medium text-gray-400">Excelencia en diseño y desarrollo</span>
+                <span class="text-sm font-medium text-gray-400">Excelencia en Diseño & Desarrollo</span>
             </div>
 
             <h1 class="text-5xl md:text-7xl font-extrabold tracking-tight leading-[1.1] mb-5 reveal delay-100">
-                Diseño web para negocios modernos.
+                Diseño estratégico para negocios modernos.
             </h1>
 
             <p class="text-base md:text-lg text-gray-400 max-w-2xl mx-auto mb-6 leading-relaxed reveal delay-200">
@@ -83,7 +83,7 @@ include 'includes/header.php';
                     <h2 class="text-4xl md:text-4xl font-bold mb-4 text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)]">
                         Soluciones de Negocio
                     </h2>
-                    <p class="text-gray-400 max-w-md mx-auto md:mx-0">No solo diseñamos, entregamos herramientas que hacen crecer tu facturación.</p>
+                    <p class="text-gray-400 max-w-md mx-auto md:mx-0">Diseñamos herramientas técnicas enfocadas en el crecimiento real de tu facturación.</p>
                 </div>
                 
                 <div class="h-0.5 bg-gradient-to-r from-brand-red via-brand-red/60 to-transparent flex-grow ml-8 hidden md:block rounded-full shadow-[0_0_15px_rgba(220,38,38,0.5)]"></div>
@@ -98,10 +98,10 @@ include 'includes/header.php';
                             </div>
                             <h3 class="text-xl font-bold mb-0 md:mb-3">Diseño Web</h3>
                         </div>
-                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Páginas diseñadas para mostrar al mundo la esencia de su empresa. Eliminamos fricción y maximizamos la retención visual.</p>
+                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Páginas diseñadas para proyectar autoridad digital. Eliminamos fricción y maximizamos la retención visual.</p>
                         <ul class="text-sm text-gray-500 space-y-2">
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Excelente diseño móvil</li>
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Profesionalidad digital</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Optimización para SEO</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Enfoque en autoridad</li>
                         </ul>
                     </div>
                 </div>
@@ -111,12 +111,12 @@ include 'includes/header.php';
                             <div class="shrink-0 w-12 h-12 bg-black rounded-lg border border-white/10 flex items-center justify-center md:mb-6 text-brand-red group-hover:scale-110 transition-transform">
                                 <i data-lucide="shopping-bag" class="w-6 h-6"></i>
                             </div>
-                            <h3 class="text-xl font-bold mb-0 md:mb-3">E-Commerce Escalable</h3>
+                            <h3 class="text-xl font-bold mb-0 md:mb-3">E-Commerce</h3>
                         </div>
-                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Tiendas diseñadas para guiar al usuario hacia la compra. Gestión óptima de inventario y formas de pago seguras.</p>
+                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Infraestructuras de ventas de alto rendimiento. Construimos experiencias de compra fluidas vía Shopify.</p>
                         <ul class="text-sm text-gray-500 space-y-2">
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Integración de pasarelas de pago</li>
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Alta conversión de ventas</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Gestión de inventarios</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Seguridad en pagos</li>
                         </ul>
                     </div>
                 </div>
@@ -124,14 +124,14 @@ include 'includes/header.php';
                     <div class="group bg-brand-gray border border-white/5 p-6 md:p-8 rounded-2xl hover:border-brand-red/50 transition-colors duration-300 h-full">
                         <div class="flex items-center md:items-start md:flex-col gap-4 md:gap-0 mb-4 md:mb-0">
                             <div class="shrink-0 w-12 h-12 bg-black rounded-lg border border-white/10 flex items-center justify-center md:mb-6 text-brand-red group-hover:scale-110 transition-transform">
-                                <i data-lucide="code-2" class="w-6 h-6"></i>
+                                <i data-lucide="bar-chart" class="w-6 h-6"></i>
                             </div>
-                            <h3 class="text-xl font-bold mb-0 md:mb-3">Desarrollo a Medida</h3>
+                            <h3 class="text-xl font-bold mb-0 md:mb-3">Guía CRO</h3>
                         </div>
-                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Programación web desde cero. Funcionalidad avanzada, automatización y sistemas de gestión interna.</p>
+                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Manual estratégico para maximizar ventas. Auditoría técnica para convertir visitantes en clientes recurrentes.</p>
                         <ul class="text-sm text-gray-500 space-y-2">
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Programación a la medida</li>
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Gestión de usuarios y contraseñas</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Checklist de auditoría</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Eliminación de fricción</li>
                         </ul>
                     </div>
                 </div>
@@ -139,14 +139,14 @@ include 'includes/header.php';
                     <div class="group bg-brand-gray border border-white/5 p-6 md:p-8 rounded-2xl hover:border-brand-red/50 transition-colors duration-300 h-full">
                         <div class="flex items-center md:items-start md:flex-col gap-4 md:gap-0 mb-4 md:mb-0">
                             <div class="shrink-0 w-12 h-12 bg-black rounded-lg border border-white/10 flex items-center justify-center md:mb-6 text-brand-red group-hover:scale-110 transition-transform">
-                                <i data-lucide="mail" class="w-6 h-6"></i>
+                                <i data-lucide="leaf" class="w-6 h-6"></i>
                             </div>
-                            <h3 class="text-xl font-bold mb-0 md:mb-3">Correo Empresarial</h3>
+                            <h3 class="text-xl font-bold mb-0 md:mb-3">Datos ESG</h3>
                         </div>
-                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Proyecta confianza inmediata con direcciones de correo electrónico personalizadas (@tuempresa.com).</p>
+                        <p class="text-sm text-gray-400 mb-4 md:mb-6 leading-relaxed">Saneamiento de datos orientado a normativas ESG. Reducción de huella digital y costos de almacenamiento.</p>
                         <ul class="text-sm text-gray-500 space-y-2">
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Dominio propio</li>
-                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Asesoría para migración</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Certificado Verde</li>
+                            <li class="flex gap-2 items-center"><span class="w-1 h-1 bg-brand-red rounded-full"></span>Eliminación datos ROT</li>
                         </ul>
                     </div>
                 </div>
@@ -236,7 +236,7 @@ include 'includes/header.php';
     <section id="proceso" class="py-16 px-6 relative overflow-hidden">
         <div class="max-w-7xl mx-auto text-center">
             
-            <h2 class="text-4xl md:text-4xl font-bold mb-12 reveal text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)]">
+            <h2 class="text-4xl md:text-5xl font-bold mb-12 reveal text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)]">
                 Proceso sin fricción
             </h2>
             
@@ -282,15 +282,14 @@ include 'includes/header.php';
         <div class="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-stretch">
             
             <div class="reveal h-full flex flex-col justify-center text-center md:text-left">
-                <span class="text-brand-red font-bold text-sm uppercase mb-2 block">Sobre Nosotros</span>
+                <span class="text-brand-red font-bold text-sm uppercase mb-2 block">NØWADAYS Studio x EcoByte</span>
                 
                 <h2 class="text-3xl md:text-4xl font-bold mb-6 text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)]">
-                    Expertos en Código y Negocios.
+                    Alianza estratégica para el futuro digital.
                 </h2>
                 
                 <p class="text-gray-400 leading-relaxed mb-8">
-                    En Bloodshot, no somos solo diseñadores. Somos consultores técnicos con una visión orientada a objetivos comerciales. 
-                    Entendemos que un sitio web es una inversión que debe generar retorno, ya sea en leads, ventas directas o posicionamiento de marca.
+                    En NØWADAYS Studio no somos solo diseñadores. A través de nuestra integración con EcoByte, ofrecemos un servicio de auditoría y saneamiento de datos digitales orientado al cumplimiento normativo ESG. Reducimos la huella digital solucionando el problema de los datos ROT (Redundant, Obsolete, Trivial) que generan costos operativos y emisiones evitables.
                 </p>
 
                 <div class="mb-10">
@@ -331,7 +330,7 @@ include 'includes/header.php';
                 
                 <div class="bg-black border border-white/10 p-8 rounded-xl relative h-full flex flex-col justify-center">
                     <i data-lucide="quote" class="w-8 h-8 text-brand-red/20 absolute top-4 right-4"></i>
-                    <p class="text-gray-300 italic mb-6 leading-relaxed">"Son unos emprendedores increíbles, las respuestas a las necesidades de la pagina las resuelven en tiempo y forma; ya casi dos años con ellos y nos sentimos muy agradecidos por su profesionalismo, honestidad y la versatilidad del diseño."</p>
+                    <p class="text-gray-300 italic mb-6 leading-relaxed">"Gracias a la auditoría de EcoByte y el rediseño de NØWADAYS, optimizamos nuestras bases de datos eliminando información redundante. No solo redujimos costos de almacenamiento, sino que ahora cumplimos con los estándares ESG que nos pedían los inversionistas."</p>
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center font-bold text-sm text-white border border-white/10">MG</div>
                         <div>
@@ -343,7 +342,7 @@ include 'includes/header.php';
                 
                 <div class="bg-black border border-white/10 p-8 rounded-xl relative h-full flex flex-col justify-center">
                     <i data-lucide="quote" class="w-8 h-8 text-brand-red/20 absolute top-4 right-4"></i>
-                    <p class="text-gray-300 italic mb-6 leading-relaxed">"Me encantó la página web, le dieron el toque minimalista que justo estaba buscando. Además, la atención que tuvieron conmigo fue 10/10."</p>
+                    <p class="text-gray-300 italic mb-6 leading-relaxed">"Me encantó cómo integraron la Guía CRO en nuestra tienda Shopify. Lograron que el proceso de compra fuera mucho más fluido, y con el saneamiento de datos de EcoByte, nuestra velocidad de carga mejoró un 40% de forma sostenible."</p>
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center font-bold text-sm text-white border border-white/10">BS</div>
                         <div>
@@ -373,8 +372,7 @@ include 'includes/header.php';
                     </summary>
                     <div class="px-8 pb-8 text-gray-400 text-base leading-relaxed pl-8">
                         <div class="border-l-2 border-brand-red/50 pl-6"> 
-                            <p>Nuestros planes inician desde <strong>$3,000 MXN</strong> para Landing Pages (Web Express) hasta <strong>$6,000 MXN</strong> para sitios profesionales completos. Si tu empresa tiene necesidades más avanzadas, tenemos cotizaciones a la medida para tí.</p>
-                            <p class="mt-2 text-sm text-gray-500">Nota: No tenemos costos ocultos ni letras chiquitas.</p>
+                            <p>Nuestros planes inician desde <strong>$3,000 MXN</strong> para Landing Pages hasta <strong>$6,000 MXN</strong> para sitios profesionales. Consultoría CRO y Saneamiento ESG requieren cotización especial por volumen de datos.</p>
                         </div>
                     </div>
                 </details>
@@ -388,11 +386,11 @@ include 'includes/header.php';
                     </summary>
                     <div class="px-8 pb-8 text-gray-400 text-base leading-relaxed pl-8">
                         <div class="border-l-2 border-brand-red/50 pl-6">
-                            <p>Uno de nuestros principios es la velocidad sin sacrificar calidad.</p>
+                            <p>Mantenemos agilidad sin sacrificar calidad técnica.</p>
                             <ul class="list-disc ml-5 mt-2 space-y-1">
-                                <li><strong>Web Express:</strong> 2 a 3 semanas.</li>
-                                <li><strong>Proyectos Profesionales/E-commerce:</strong> 4 a 6 semanas.</li>
-                                <li><strong>Proyectos a la medida:</strong> 8+ semanas.</li>
+                                <li><strong>Landing Pages:</strong> 2 a 3 semanas.</li>
+                                <li><strong>E-commerce / CRO:</strong> 4 a 6 semanas.</li>
+                                <li><strong>Auditoría ESG:</strong> Variable según infraestructura.</li>
                             </ul>
                         </div>
                     </div>
@@ -402,13 +400,12 @@ include 'includes/header.php';
             <div class="reveal delay-300 w-full">
                 <details class="group bg-brand-dark border border-white/5 rounded-2xl open:bg-white/5 w-full overflow-hidden transition-colors duration-300">
                     <summary class="p-8 flex justify-between items-center font-bold text-white list-none text-lg select-none cursor-pointer w-full transition-colors">
-                        <span>¿Ofrecen soporte después del lanzamiento?</span>
+                        <span>¿Cómo ayuda EcoByte a mi negocio?</span>
                         <i data-lucide="chevron-down" class="w-6 h-6 text-gray-500 group-open:rotate-180 transition-transform duration-300 flex-shrink-0 ml-4"></i>
                     </summary>
                     <div class="px-8 pb-8 text-gray-400 text-base leading-relaxed pl-8">
                         <div class="border-l-2 border-brand-red/50 pl-6">
-                            <p>Sí, no te dejamos solo. Todos nuestros desarrollos incluyen <strong>1 mes de soporte técnico gratuito</strong> post-lanzamiento para asegurar que todo funcione perfecto.</p>
-                            <p class="mt-2">Posteriormente, ofrecemos planes de mantenimiento y hosting opcionales desde $1,500 MXN al mes que cubren seguridad y actualizaciones continuas.</p>
+                            <p>EcoByte identifica datos obsoletos y triviales en tu nube, reduciendo emisiones digitales y costos operativos, emitiendo un Certificado de Ahorro Verde para tus reportes de sustentabilidad.</p>
                         </div>
                     </div>
                 </details>
@@ -422,7 +419,7 @@ include 'includes/header.php';
         <div class="max-w-4xl mx-auto relative z-10 text-center bg-brand-dark/80 backdrop-blur-xl p-8 md:p-16 rounded-3xl border border-white/10 shadow-2xl">
             <h2 class="text-4xl md:text-5xl font-bold mb-6 text-white">¿Listo para comenzar?</h2>
             <p class="text-gray-400 mb-10 text-lg max-w-2xl mx-auto">
-                No dejes que tu competencia te gane el clic. Agenda una consultoría gratuita y descubramos cómo podemos potenciar tu negocio hoy mismo.
+                Agenda una consultoría gratuita y descubramos cómo podemos potenciar tu negocio y eficiencia digital hoy mismo.
             </p>
             
                 <form action="send_mail.php" method="POST" class="max-w-xl mx-auto space-y-4 mb-8 text-left">
@@ -435,7 +432,7 @@ include 'includes/header.php';
                         </div>
                         <div class="space-y-1">
                             <label for="email" class="text-xs text-gray-500 font-bold uppercase tracking-wider ml-1">Email Corporativo</label>
-                            <input type="email" name="email" id="email" required placeholder="nombre@empresa.com" 
+                            <input type="email" name="email" id="email" required placeholder="contacto@empresa.com" 
                                 class="w-full bg-black border border-white/20 rounded-lg px-4 py-3 text-white focus:border-brand-red focus:ring-1 focus:ring-brand-red outline-none transition-all placeholder-gray-700">
                         </div>
                     </div>
@@ -449,9 +446,9 @@ include 'includes/header.php';
                                 <option value="Landing Page">Web Express / Landing Page</option>
                                 <option value="E-commerce">E-commerce / Tienda Online</option>
                                 <option value="Web Profesional">Página web profesional</option>
-                                <option value="Desarrollo a Medida">Desarrollo web personalizado</option>
-                                <option value="Correos">Correos empresariales</option>
-                                <option value="Consultoria">Consultoría / Auditoría</option>
+                                <option value="Desarrollo a Medida">Desarrollo web a la Medida</option>
+                                <option value="ESG">Datos Verdes ESG</option>
+                                <option value="CRO">Guía CRO</option>
                             </select>
                             <div class="absolute inset-y-0 right-0 flex items-center px-4 pointer-events-none text-gray-500">
                                 <i data-lucide="chevron-down" class="w-4 h-4"></i>
