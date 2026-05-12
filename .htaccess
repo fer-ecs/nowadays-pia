@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# 1. Redirigir la palabra /inicio hacia index.php
+RewriteRule ^inicio/?$ index.php [L,NC]
+
+# 2. Quitar la extensión .php de TODAS las demás páginas
+# (Ejemplo: bloodshot.io/servicios cargará servicios.php internamente)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# 3. Forzar HTTPS (Opcional)
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
